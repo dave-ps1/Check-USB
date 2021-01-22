@@ -3,6 +3,8 @@ A PowerShell GUI tool to check if a USB drive is still plugged in at computer lo
 
 If a USB drive is detected this message box will popup and delay the logoff for 60 seconds.
 
+This tool is very useful in a computer lab environment.
+
 Code can also be added to have it pull the user's name and email and send an email to them.
 
 ![Alt text](/../main/Check-USB.png?raw=true "Optional Title")
